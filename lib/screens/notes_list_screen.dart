@@ -52,7 +52,7 @@ class _NotesListScreenState extends State<NotesListScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'My Notes',
+          'NoteKeeperApp',
           style: TextStyle(fontWeight: FontWeight.w600),
         ),
         backgroundColor: Colors.amber.shade600,
